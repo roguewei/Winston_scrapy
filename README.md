@@ -13,5 +13,7 @@ Twisted
 点击右边“+”号，搜索栏输入“scrapy”，然后安装即可
 
 命令创建scrapy项目：
+
 scrapy startproject 项目名
+
 即可创建一个项目
