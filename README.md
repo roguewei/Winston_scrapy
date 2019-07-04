@@ -17,3 +17,6 @@ Twisted
 scrapy startproject 项目名
 
 即可创建一个项目
+
+运行传参形式的命令：
+scrapy crawl name -a tag=自己定标签

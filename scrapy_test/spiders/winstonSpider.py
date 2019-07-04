@@ -1,7 +1,7 @@
 import scrapy
 
 
-class winstonUrl(scrapy.Spider):
+class WinstonSpider(scrapy.Spider):
     # 运行scrapy命令时的标识
     # 命令行执行：scrapy crawl runScrapyName
     name = "runScrapyName"
